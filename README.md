@@ -27,6 +27,8 @@ O projeto foi desenvolvido como parte de um estudo prático sobre **Transformers
 ├── run_video_detection.py        # Script de inferência (aplica o modelo em vídeos)
 ├── requirements.txt              # Dependências do projeto
 └── README.md                     # Documentação
+```
+
 🚀 Como Rodar o Projeto
 1. Instalação
 Clone o repositório e instale as dependências:
